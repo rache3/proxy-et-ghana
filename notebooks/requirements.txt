@@ -1,0 +1,13 @@
+earthaccess
+cdsapi
+rioxarray
+xarray
+rasterio
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+scipy
+jupyter
+python-dotenv
