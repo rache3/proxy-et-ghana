@@ -1,0 +1,37 @@
+# Environment & credentials
+.env
+*.json
+!CITATION.cff
+service-account*.json
+credentials*.json
+*-key.json
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data
+data/raw/
+*.tif
+*.tiff
+*.cog.tif
+*.nc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
