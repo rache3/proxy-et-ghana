@@ -33,5 +33,6 @@ data/raw/
 # OS / editor
 .DS_Store
 .vscode/
+.claude/
 .idea/
 *.swp
